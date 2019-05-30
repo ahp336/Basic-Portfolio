@@ -82,7 +82,7 @@ h1{
     width: 25%;
     height: 25%;
     padding-top: 10px;
-    padding-right: 30px;
+    padding-right: 40px;
     float: left;
 }
 
@@ -93,13 +93,6 @@ h1{
 p{
     text-align: left;
     line-height: 200%;
-
-}
-
-#p1{
-    padding-top: 10px;
-    padding-right: 10px;
-    margin-left: 10%;
 
 }
 
