@@ -22,7 +22,7 @@ header{
     font-size: 40px;
     float: left;
     padding: 10px 20px;
-    margin-top: 1.2%;
+    margin-top: 1.25%;
     margin-left: 15%;
 }
 
@@ -75,8 +75,24 @@ h1{
     margin-left: 15%;
     margin-right: 15%;
     overflow: auto;
-
 }
+
+footer{
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    text-decoration: none;
+    height: 50px;
+    position: relative;
+    margin-top: -50px;
+    font-size: 10px;
+    display: block;
+    clear: both;
+    color: #4aaaa5;
+}
+
+
+/* About Me Styling */
 
 #Pic{
     width: 25%;
@@ -93,22 +109,4 @@ h1{
 p{
     text-align: left;
     line-height: 200%;
-
 }
-
-
-footer{
-    background-color: #666666;
-    border-top: 8px solid #4aaaa5;
-    text-align: center;
-    text-decoration: none;
-    height: 50px;
-    position: relative;
-    margin-top: -50px;
-    font-size: 10px;
-    display: block;
-    clear: both;
-    color: #4aaaa5;
-
-}
-
