@@ -12,7 +12,7 @@
 </head>
 
 <body>
-<div id="container">
+<div class="container">
     
     <nav>
         <header> Aakash Parikh</header>
@@ -26,9 +26,18 @@
     <div class="maincontent">
         <h1>Contact</h1>
         <hr>
-        <h2>Name</h2>
-        <h3>Email</h3>
-        <h4>Message</h4>
+        <form id="container">
+            <label>Name</label>
+            <input type="text" placeholder="Your Name" name="first and last name">
+
+            <label>Email</label>
+            <input type="text" placeholder="example@gmail.com">
+            
+            <label>Message</label>
+            <textarea style="height: 100px"></textarea>
+
+            <input type="Submit" value="Submit">
+        </form>
     </div>
 </div>
 
